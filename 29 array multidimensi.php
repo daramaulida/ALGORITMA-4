@@ -24,7 +24,7 @@ $artikel = [
     ],
     [
         "judul" => "Membuat Aplikasi Web dengan PHP",
-        "penulis" => "ahmadimuslim"
+        "penulis" => "daramaulida"
     ]
 ];
 
